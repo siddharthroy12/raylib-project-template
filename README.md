@@ -5,7 +5,7 @@ This is a very minimal c/c++ project template for raylib and make and works on D
 ## Requirements
 
 This template requires raylib to be installed from source, installer or package manager.
-The install process is explained in [ralib's readme](https://github.com/raysan5/raylib)
+The install process is explained in [ralib's readme](https://github.com/raysan5/raylib#build-and-installation)
 
 ## Compiling
 
